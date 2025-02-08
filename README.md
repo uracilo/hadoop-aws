@@ -61,3 +61,6 @@ escalable	1
 - **Apache Flink:** Procesamiento en tiempo real.
 
 🚀 *Este ejemplo se ejecuta usando Hadoop Streaming con scripts en Python.*
+
+![image](https://github.com/user-attachments/assets/eefb9f12-aace-466d-819d-ada3daa10b70)
+
